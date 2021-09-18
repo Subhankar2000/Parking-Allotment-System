@@ -1,0 +1,59 @@
+1 power supply connection:
+
+//5V connect 5V DC power supply
+
+//GND earth
+
+2 LCD screen data line wiring
+
+This module / default data bus type parallel 8 bit mode
+
+//8 bit mode connection: 8 bit mode 9341 modules to connect the 8 bit bus, that is, the:
+
+LCD_D0 microcontroller P2.0 LCD screen / correspondence
+
+LCD_D1 microcontroller P2.1 LCD screen / correspondence
+
+LCD_D2 microcontroller P2.2 LCD screen / correspondence
+
+LCD_D3 microcontroller P2.3 LCD screen / correspondence
+
+LCD_D4 microcontroller P2.4 LCD screen / correspondence
+
+LCD_D5 microcontroller P2.5 LCD screen / correspondence
+
+LCD_D6 microcontroller P2.6 LCD screen / correspondence
+
+LCD_D7 microcontroller P2.7 LCD screen / correspondence
+
+3 LCD screen control cable wiring
+
+//LCD_RST P3.3 / / reset signal
+
+//LCD_CS P1.3 / chip select signal
+
+//LCD_RS P1.2 / / / data register selection signal
+
+//LCD_WR P1.1 / / write signal
+
+//LCD_RD P1.0 / / read signal
+
+4 touch screen touch wiring
+
+/ / the module need to connect an external XPT2046 touch touch test sampling chip, so this procedure does not touch the test.
+
+/ / or module itself without touch not touch, can not connect
+
+5 supporting code description:
+
+//C51 integrated test program _ILI9481 (simplified test - suitable for small single chip ROM capacity)
+
+Test MCU: STC89C52
+
+The code to perform only brush full red, blue and green cycle that is the most simple test procedure for judging whether the wiring is correct and hardware is intact, such as LCD screen can display the red, blue and green proved that this model is no problem.
+
+//C51 comprehensive testing procedures _ILI9481 (integrated test - for more than ROM 30K microcontroller)
+
+Test MCU: STC12LE5A60S2/STC12C5A60S2
+
+This code contains the scraper, in both English and Chinese show that images showing the stipple line painting circle display function, and so on, the larger compiled hex file, it is recommended to use more than 30K ROM chip testing.
