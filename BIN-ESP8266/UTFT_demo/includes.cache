@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Subhankar Karmakar\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Subhankar Karmakar\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\variants\\nodemcu"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_250628\\sketch\\UTFT_demo.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Subhankar Karmakar\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_250628\\sketch\\UTFT_demo.ino.cpp",
+    "Include": "TFT_eSPI.h",
+    "Includepath": "C:\\Users\\Subhankar Karmakar\\Documents\\Arduino\\libraries\\TFT_eSPI"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_250628\\sketch\\UTFT_demo.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Subhankar Karmakar\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Subhankar Karmakar\\Documents\\Arduino\\libraries\\TFT_eSPI\\TFT_eSPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "D:\\Arduino-STM32-ARM-M4\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.CMSIS.path=D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\tools\\CMSIS\\5.3.0,runtime.tools.arm-none-eabi-gcc.path=D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\tools\\arm-none-eabi-gcc\\6-2017-q2-update,runtime.tools.STM32Tools.path=D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\tools\\STM32Tools\\1.2.1",
+  "fqbn": "STM32:stm32:Nucleo_64:pnum=NUCLEO_F401RE,upload_method=MassStorage,xserial=generic,usb=none,xusb=FS,opt=osstd,rtlib=nano",
+  "hardwareFolders": "D:\\Arduino-STM32-ARM-M4\\hardware,D:\\Arduino-STM32-ARM-M4\\portable\\packages",
+  "otherLibrariesFolders": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_modified_sketch_789063\\drawBitmap_kbv.ino",
+  "toolsFolders": "D:\\Arduino-STM32-ARM-M4\\tools-builder,D:\\Arduino-STM32-ARM-M4\\hardware\\tools\\avr,D:\\Arduino-STM32-ARM-M4\\portable\\packages"
+}

@@ -1,0 +1,187 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\variants\\NUCLEO_F401RE"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "MCUFRIEND_kbv.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\MCUFRIEND_kbv"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "TouchScreen.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_TouchScreen"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "ds3231.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\ds3231FS"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "SdFat.h",
+    "Includepath": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\SUBHAN~2\\AppData\\Local\\Temp\\arduino_build_555789\\sketch\\UPLOAD_V_5_92b.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\MCUFRIEND_kbv\\MCUFRIEND_kbv.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\Adafruit_TouchScreen\\TouchScreen.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\ds3231FS\\ds3231.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\packages\\STM32\\hardware\\stm32\\1.5.0\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FatFile.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FatFileLFN.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FatFilePrint.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FatFileSFN.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FatVolume.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\FmtNumber.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\StdioStream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\fstream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\istream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\FatLib\\ostream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\MinimumSerial.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SdCard\\SdSpiCard.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SdCard\\SdSpiCardEX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SdCard\\SdioCardEX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SdCard\\SdioTeensy.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SpiDriver\\SdSpiESP8266.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SpiDriver\\SdSpiSAM3X.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SpiDriver\\SdSpiSTM32.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Arduino-STM32-ARM-M4\\portable\\sketchbook\\libraries\\SdFat\\src\\SpiDriver\\SdSpiTeensy3.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
